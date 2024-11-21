@@ -86,7 +86,7 @@ This structure ensures that you can easily trace and restore any files that were
 To get started, clone this repository and make sure all required dependencies are installed. No external libraries are required beyond Python's standard library.
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/matheusfarnetani/rvt_organizer.git
 cd RVT_Organizer
 ```
 
